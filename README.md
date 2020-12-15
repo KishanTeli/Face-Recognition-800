@@ -33,4 +33,4 @@ The total number of images in the training set were divided into the two categor
   Loss - 0.0182
   F1 score: 0.99
 
-
+Code and outputs in our drive because of the size of code is bigger.
